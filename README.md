@@ -5,10 +5,13 @@ The game will be a "hacking" game in which the player has to solve various puzzl
 The mechanics in this game have been based heavily around the idea of the unique controller.
 
 The first puzzle will be turning four cubes till they all light up green. It will work in a similar way as lock-picking does in the game Skyrim. The colour of the cube will change depending on how close it is to the correct position. More red equals further away while green equals close. When the player gets the cube close enough it will lock into position so they no longer have to worry about it. When all four cubes have been locked then the puzzle is completed and the game will move on to the next puzzle.
+
 ![alt text](https://raw.githubusercontent.com/Phil-Sparkes/comp140-gam160-game/master/Puzzle1.png "Puzzle1")
 The second puzzle will be a typing one. The player must type the word "hack" (subject to change) as quickly as possible. The hard part about this is finding the letters. The player must turn joysticks to try and find the letter. Once they have found the right letter they can lock it in and move onto the next letter. Once the player inputs all four correct letters the puzzle will be complete.
+
 ![alt text](https://raw.githubusercontent.com/Phil-Sparkes/comp140-gam160-game/master/Puzzle2.png "Puzzle2")
 The last puzzle will have the player moving four different "files" to the extraction point. It is a maze in which the player has to control four different objects at once. When all the files have reached the extraction point then the puzzle is complete and the screen with the final time will be displayed.
+
 ![alt text](https://raw.githubusercontent.com/Phil-Sparkes/comp140-gam160-game/master/Puzzle3.png "Puzzle3")
 # Controller
 The controller will be a panel on the users wrist. The panel will have five analog joysticks that are wired up to an arduino beneath it. The arduino will also have a wire connecting it to a computer.
